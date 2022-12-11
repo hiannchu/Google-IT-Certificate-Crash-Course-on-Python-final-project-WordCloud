@@ -1,10 +1,10 @@
-**ABOUT THIS**
+## ABOUT THIS
 
 This is came from the Google IT certificate course on Coursera, it is a final project working lab.<br/>
 However, the built-in code has some bugs (or it was also considered as test parts of the final project?).<br/>
-To see the solution, please visit google-it-certificate-crash-course-on-pyhton-final-project-wordcloud<br/>
+To see the solution, please visit [here](https://thelearningeek.wordpress.com/2022/12/11/google-it-certificate-crash-course-on-pyhton-final-project-wordcloud/)
 
-**ABOUT ME**
+## ABOUT ME
 
 - 👋 Hi, I’m Ann
 - 🇹🇼 I am a Taiwanese
