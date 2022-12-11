@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Ann
+- 🇹🇼 I am a Taiwanese
+- 👶 I am new to this field
+- 🌱 I have no related background, I am a self-taught learner
+- 🎯 My goal is to discover more and help people like me to learn coding
+- 📫 Feel free to contact me hi@annchu.me
